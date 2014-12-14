@@ -3,7 +3,7 @@ OBG - One Button Game
 
 MOTIVAÇÃO
 ---------
-Quando um aluno inicia o curso de games, a sua expectativa é de criar os mesmos jogos que estão acostumados a jogar em casa. Então no primeiro semestre o aluno pensa em uma ideia mirabolante e na hora de implementar percebe que a complexidade é maior que a esperada, não conseguindo completar o jogo e muitas vezes desistindo do curso.
+Quando um aluno inicia o curso de games, a sua expectativa é de criar os mesmos jogos que estão acostumados a jogar em casa. Então percebe que a complexidade é maior que a esperada, não conseguindo completar o jogo e muitas vezes desistindo do curso.
 
 Pensando nesse problema foi criado o campeonato "One Button Game" onde o aluno tem que desenvolver um jogo somente com um botão de interação. No início eles não entendem como se pode criar um jogo somente com um botão, mas aos pouco a criatividade vai surgindo e aparecendo muitos jogos inesperados e divertidos. 
 

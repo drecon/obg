@@ -32,7 +32,7 @@ Sim! Se o objetivo é buscar apoio com empresas para premiar os alunos.
 
 TEMPO DE DURAÇÃO DO CAMPEONATO
 ---------
-Um mês.
+De um a três mêses.
 
 
 

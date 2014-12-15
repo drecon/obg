@@ -1,4 +1,4 @@
-OBG - One Button Game
+OBG - Campeonato One Button Game
 ===
 
 MOTIVAÇÃO
